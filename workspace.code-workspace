@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "p1"
+		},
+		{
+			"path": "p2"
+		},
+		{
+			"path": "parent-project"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
